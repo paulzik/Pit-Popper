@@ -1,0 +1,72 @@
+[
+  {
+    "stimulusId": "Ball_1",
+    "stimulusType": "BallStimulus",
+    "reactionTime": -1.0,
+    "hit": false,
+    "timestamp": "2025-10-24_14-10-31"
+  },
+  {
+    "stimulusId": "Ball_2",
+    "stimulusType": "BallStimulus",
+    "reactionTime": -1.0,
+    "hit": false,
+    "timestamp": "2025-10-24_14-10-32"
+  },
+  {
+    "stimulusId": "Ball_3",
+    "stimulusType": "BallStimulus",
+    "reactionTime": -1.0,
+    "hit": false,
+    "timestamp": "2025-10-24_14-10-33"
+  },
+  {
+    "stimulusId": "Ball_4",
+    "stimulusType": "BallStimulus",
+    "reactionTime": -1.0,
+    "hit": false,
+    "timestamp": "2025-10-24_14-10-34"
+  },
+  {
+    "stimulusId": "Ball_5",
+    "stimulusType": "BallStimulus",
+    "reactionTime": -1.0,
+    "hit": false,
+    "timestamp": "2025-10-24_14-10-35"
+  },
+  {
+    "stimulusId": "Ball_6",
+    "stimulusType": "BallStimulus",
+    "reactionTime": 8622.395,
+    "hit": true,
+    "timestamp": "2025-10-24_14-10-35"
+  },
+  {
+    "stimulusId": "Ball_7",
+    "stimulusType": "BallStimulus",
+    "reactionTime": -1.0,
+    "hit": false,
+    "timestamp": "2025-10-24_14-10-41"
+  },
+  {
+    "stimulusId": "Ball_8",
+    "stimulusType": "BallStimulus",
+    "reactionTime": 8688.658,
+    "hit": true,
+    "timestamp": "2025-10-24_14-10-41"
+  },
+  {
+    "stimulusId": "Ball_9",
+    "stimulusType": "BallStimulus",
+    "reactionTime": -1.0,
+    "hit": false,
+    "timestamp": "2025-10-24_14-10-43"
+  },
+  {
+    "stimulusId": "Ball_10",
+    "stimulusType": "BallStimulus",
+    "reactionTime": 8952.457,
+    "hit": true,
+    "timestamp": "2025-10-24_14-10-44"
+  }
+]

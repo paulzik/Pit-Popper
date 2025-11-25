@@ -1,0 +1,72 @@
+[
+  {
+    "stimulusId": "Ball_1",
+    "stimulusType": "BallStimulus",
+    "reactionTime": 7561.57275,
+    "hit": true,
+    "timestamp": "2025-10-20_16-18-22"
+  },
+  {
+    "stimulusId": "Ball_2",
+    "stimulusType": "BallStimulus",
+    "reactionTime": 7934.54,
+    "hit": true,
+    "timestamp": "2025-10-20_16-18-23"
+  },
+  {
+    "stimulusId": "Ball_3",
+    "stimulusType": "BallStimulus",
+    "reactionTime": 7476.59668,
+    "hit": true,
+    "timestamp": "2025-10-20_16-18-24"
+  },
+  {
+    "stimulusId": "Ball_4",
+    "stimulusType": "BallStimulus",
+    "reactionTime": -1.0,
+    "hit": false,
+    "timestamp": "2025-10-20_16-18-27"
+  },
+  {
+    "stimulusId": "Ball_5",
+    "stimulusType": "BallStimulus",
+    "reactionTime": -1.0,
+    "hit": false,
+    "timestamp": "2025-10-20_16-18-28"
+  },
+  {
+    "stimulusId": "Ball_6",
+    "stimulusType": "BallStimulus",
+    "reactionTime": 8913.185,
+    "hit": true,
+    "timestamp": "2025-10-20_16-18-28"
+  },
+  {
+    "stimulusId": "Ball_7",
+    "stimulusType": "BallStimulus",
+    "reactionTime": -1.0,
+    "hit": false,
+    "timestamp": "2025-10-20_16-18-32"
+  },
+  {
+    "stimulusId": "Ball_8",
+    "stimulusType": "BallStimulus",
+    "reactionTime": -1.0,
+    "hit": false,
+    "timestamp": "2025-10-20_16-18-33"
+  },
+  {
+    "stimulusId": "Ball_10",
+    "stimulusType": "BallStimulus",
+    "reactionTime": 5989.517,
+    "hit": true,
+    "timestamp": "2025-10-20_16-18-34"
+  },
+  {
+    "stimulusId": "Ball_9",
+    "stimulusType": "BallStimulus",
+    "reactionTime": -1.0,
+    "hit": false,
+    "timestamp": "2025-10-20_16-18-34"
+  }
+]
