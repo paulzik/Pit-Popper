@@ -1,0 +1,58 @@
+*.cs     text
+*.shader text
+*.cginc  text
+*.compute text
+*.json   text
+*.yaml   text
+*.yml    text
+*.xml    text
+*.txt    text
+*.md     text
+*.asmdef text
+*.asmref text
+*.rsp    text
+*.uxml   text
+*.uss    text
+
+# Unity metadata files (VERY IMPORTANT)
+*.meta   text
+
+# Project settings files
+ProjectSettings/* text
+Packages/*.json  text
+
+# Audio
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.ogg filter=lfs diff=lfs merge=lfs -text
+
+# Textures & sprites
+*.png  filter=lfs diff=lfs merge=lfs -text
+*.jpg  filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.tga  filter=lfs diff=lfs merge=lfs -text
+*.psd  filter=lfs diff=lfs merge=lfs -text
+*.tif  filter=lfs diff=lfs merge=lfs -text
+*.tiff filter=lfs diff=lfs merge=lfs -text
+*.exr  filter=lfs diff=lfs merge=lfs -text
+
+# Models
+*.fbx  filter=lfs diff=lfs merge=lfs -text
+*.obj  filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.dae  filter=lfs diff=lfs merge=lfs -text
+*.gltf filter=lfs diff=lfs merge=lfs -text
+*.glb  filter=lfs diff=lfs merge=lfs -text
+
+# Unity asset files (binary)
+*.unity filter=lfs diff=lfs merge=lfs -text
+*.prefab filter=lfs diff=lfs merge=lfs -text
+*.mat    filter=lfs diff=lfs merge=lfs -text
+*.asset  filter=lfs diff=lfs merge=lfs -text
+*.controller filter=lfs diff=lfs merge=lfs -text
+*.anim   filter=lfs diff=lfs merge=lfs -text
+*.physicmaterial filter=lfs diff=lfs merge=lfs -text
+
+# Video
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mov filter=lfs diff=lfs merge=lfs -text
